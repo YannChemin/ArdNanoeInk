@@ -9,6 +9,12 @@ Please change the absolute path in dnd.ino line 18 to your directory location
 #define IMAGE_1_FILE "/home/yann/dev/ArdNanoeInk/pnj.xbm"
 ~~~
 
+Then ensure that Arduino IDE is installed and run:
+
+~~~shell
+bash ./compile.sh
+~~~
+
 ![Setup](Figure.png "Setup")
 
 
